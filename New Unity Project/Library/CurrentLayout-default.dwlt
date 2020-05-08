@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 680, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 0
-  controlID: 60
+  controlID: 124
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 106
+  controlID: 18
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 107
+  controlID: 19
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -394,9 +394,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 70fbffff
+      m_SelectedIDs: a4f8ffff
+      m_LastClickedID: -1884
+      m_ExpandedIDs: 6cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -456,9 +456,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 63.660107, y: 2.6187592, z: -109.54142}
+    m_Target: {x: 31.427021, y: 43.51968, z: 39.161644}
     speed: 2
-    m_Value: {x: 63.660107, y: 2.6187592, z: -109.54142}
+    m_Value: {x: 31.427021, y: 43.51968, z: 39.161644}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -504,13 +504,13 @@ MonoBehaviour:
     m_GridAxis: 2
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.004897446, y: 0.57768595, z: -0.0034644785, w: 0.81624395}
+    m_Target: {x: 0.52156776, y: -0.02737942, z: 0.0167466, w: 0.85261273}
     speed: 2
-    m_Value: {x: 0.0048974464, y: 0.577686, z: -0.0034644788, w: 0.816244}
+    m_Value: {x: 0.5203098, y: -0.026124239, z: 0.015924968, w: 0.8534294}
   m_Size:
-    m_Target: 45.349075
+    m_Target: 273.80676
     speed: 2
-    m_Value: 45.349075
+    m_Value: 262.01605
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -779,19 +779,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/scripts
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/scripts
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\HP\Documents\GitHub\developingame\New Unity Project
+  m_LastProjectPath: C:\Users\HP\Documents\GitHub\developingame\Korkulu-oyun\New
+    Unity Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6e350000
-    m_LastClickedID: 13678
+    m_SelectedIDs: 62350000
+    m_LastClickedID: 13666
     m_ExpandedIDs: 000000006235000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
